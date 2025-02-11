@@ -115,3 +115,21 @@ Resumo
 📞 Se necessário, peça suporte ao Twilio para mais informações.
 
 Se o problema for frequente, pode ser um bloqueio maior do Meta para certas mensagens ou contas. Fique atento aos padrões de envio! 🚀
+
+<h2> 210110 </h2>
+
+O erro "210110" no Twilio geralmente está relacionado a problemas com a autenticação de sua conta ou o uso de um número de telefone que não está configurado corretamente para a tarefa que você está tentando realizar. Esse erro pode ocorrer em diferentes cenários, como ao tentar enviar SMS, fazer chamadas ou usar APIs do Twilio.
+
+Aqui estão algumas dicas para resolver esse problema:
+
+Verifique suas credenciais de API: Certifique-se de que está utilizando as credenciais corretas (SID da conta e Token de autenticação) em seu código.
+
+Verifique a configuração do número de telefone: Se você estiver usando um número de telefone Twilio para enviar mensagens, verifique se o número foi adquirido corretamente e está ativo.
+
+Limitações geográficas: Algumas funções do Twilio, como envio de SMS, podem ter restrições geográficas. Certifique-se de que o número de telefone que você está usando seja compatível com o país de destino.
+
+Verifique o saldo da conta Twilio: Se você tiver um saldo insuficiente ou se sua conta estiver com algum bloqueio ou limitação, o erro pode ocorrer. Acesse o painel de controle do Twilio para verificar o status da sua conta.
+
+Documentação e Suporte: Consulte a documentação oficial do Twilio sobre esse erro específico ou entre em contato com o suporte técnico da Twilio para obter mais detalhes.
+
+Se precisar de mais ajuda, posso tentar verificar algum detalhe adicional!
