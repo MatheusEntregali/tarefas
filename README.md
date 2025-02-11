@@ -40,7 +40,7 @@ Use um template do Twilio com parâmetros válidos.
 Se ainda falhar, tente enviar pelo Twilio Console para ver se há diferença.
 Se o problema persistir, a melhor opção é abrir um chamado no suporte do Twilio, pois pode ser uma restrição do próprio Meta. 🚀
 
-<h2>erro</h2>
+<h2>63024</h2>
 1. O número está formatado corretamente?
 O número "whatsapp:+551139592222" pode estar incorreto.
 O DDD 11 (São Paulo) exige 9 dígitos para celulares desde a implementação do nono dígito no Brasil.
